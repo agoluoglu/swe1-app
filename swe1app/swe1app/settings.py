@@ -25,12 +25,13 @@ SECRET_KEY = 'oh%&l)4+aci^7gf66djpor56b44(3$7nc0&bs%ycz0)&5^a-#n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['swe1app-dev.us-east-1.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['swe1app-dev.us-east-1.elasticbeanstalk.com','127.0.0.1', '0.0.0.0' ]
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'polls.apps.PollsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
