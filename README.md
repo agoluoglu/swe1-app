@@ -1,5 +1,5 @@
 # swe1-app
-Django Tutorial Application with AWS Elastic Beanstalk Deployment  
+Django Tutorial Polls Application with AWS Elastic Beanstalk Deployment  
 by Ashley Goluoglu  
 for Practical Software Engineering 1   
 for Master's in Emerging Technologies: Machine Learning and Artificial Intelligence at New York University  
