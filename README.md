@@ -4,7 +4,7 @@ by Ashley Goluoglu
 for Practical Software Engineering 1   
 for Master's in Emerging Technologies: Machine Learning and Artificial Intelligence at New York University  
 
-Environment Link*:
+Environment Link*:  
 http://swe1app-dev.us-east-1.elasticbeanstalk.com/polls/  
 *Note: does not work because the Elastic Beanstalk environment has been terminated, but can be used as reference when naming new environment  
 
