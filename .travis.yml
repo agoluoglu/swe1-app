@@ -22,7 +22,7 @@ script:
   - cd ..
 
 after_script:
-  - coveralls
+  - curl -sL https://coveralls.io/coveralls-linux.tar.gz | tar -xz && ./coveralls
 
 before_deploy:
   - cd swe1app
