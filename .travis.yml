@@ -4,7 +4,7 @@ python:
   - 3.8
 
 before_install:
-  - gem install coveralls-lcov
+  - pip install coveralls
 
 install:
   - cd swe1app
