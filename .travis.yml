@@ -24,6 +24,9 @@ script:
 after_script:
   - coveralls
 
+before_deploy:
+  - cd swe1app
+  
 deploy:
   provider: elasticbeanstalk
   access_key_id: $AWS_ACCESS_ID
