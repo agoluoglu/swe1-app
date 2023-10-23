@@ -3,6 +3,9 @@ language: python
 python:
   - 3.8
 
+before_install:
+  - gem install coveralls-lcov
+
 install:
   - cd swe1app
   - pip install -r requirements.txt
