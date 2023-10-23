@@ -3,9 +3,6 @@ language: python
 python:
   - 3.8
 
-before_install:
-  - pip install coveralls
-
 install:
   - cd swe1app
   - pip install -r requirements.txt
