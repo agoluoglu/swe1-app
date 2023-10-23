@@ -7,13 +7,17 @@ install:
   - pip install -r requirements.txt
 
 before_script:
+  - cd swe1app
   - python manage.py migrate
   - python manage.py collectstatic --noinput
+  - cd ..
 
 script:
   - black --check .
   - flake8 .
+  - cd swe1app
   - coverage run --source=swe1app,polls manage.py test
+  - cd ..
 
 after_script:
   - coveralls
