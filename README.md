@@ -1,4 +1,6 @@
 # swe1-app
+[![Coverage Status](https://coveralls.io/repos/github/agoluoglu/swe1-app/badge.svg?branch=main)](https://coveralls.io/github/agoluoglu/swe1-app?branch=main)
+
 Django Tutorial Polls Application with AWS Elastic Beanstalk Deployment  
 by Ashley Goluoglu  
 for Practical Software Engineering 1   
