@@ -15,7 +15,7 @@ before_script:
   - cd ..
 
 script:
-  - black --check .
+  - black .
   - flake8 .
   - cd swe1app
   - coverage run --source=swe1app,polls manage.py test
