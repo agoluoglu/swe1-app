@@ -3,7 +3,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/agoluoglu/swe1-app/badge.svg?branch=main)](https://coveralls.io/github/agoluoglu/swe1-app?branch=main)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Django Tutorial Polls Application with AWS Elastic Beanstalk Deployment  
+Django Tutorial Polls Application with AWS Elastic Beanstalk Deployment, Travis CI  
 by Ashley Goluoglu  
 for Practical Software Engineering 1   
 for Master's in Emerging Technologies: Machine Learning and Artificial Intelligence at New York University  
