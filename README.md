@@ -13,9 +13,15 @@ http://swe1app-dev.us-east-1.elasticbeanstalk.com/polls/
 *Note: does not work because the Elastic Beanstalk environment has been terminated, but can be used as reference when naming new environment  
 
 Tutorial Resources:  
-https://docs.djangoproject.com/en/4.1/intro/tutorial02/  
-https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html  
-https://testdriven.io/blog/django-elastic-beanstalk/  
+[Writing Your First Django App (Polls)](https://docs.djangoproject.com/en/4.1/intro/tutorial02/)  
+[Deploying a Django App to Elastic Beanstalk (AWS docs)](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html)  
+[Deploying a Django App to Elastic Beanstalk (w/ GitHub and env variables)](https://testdriven.io/blog/django-elastic-beanstalk/)  
+[Travis Continuous Integration](https://docs.travis-ci.com/user/tutorial/)  
+[Travis CI Elastic Beanstalk Deployment](https://docs.travis-ci.com/user/deployment/elasticbeanstalk/)  
+[Black Code Formatting](https://github.com/psf/black)  
+[Flake8 Linter](http://flake8.pycqa.org/en/latest/)  
+[Coverage](https://coverage.readthedocs.io/)  
+[Coveralls](https://coveralls.io/)  
 
 Personal Drive Link:  
-https://drive.google.com/drive/folders/1H3VrrYOqWE_feTvsnnV8ozpngVNE0Hup?usp=drive_link  
+[Practical Software Engineering I Personal Assignments](https://drive.google.com/drive/folders/1XK6oRJp9OXF8stknXKIr6uCO74fimZEm)
